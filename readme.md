@@ -5,6 +5,7 @@ KloutRequest is a Klout API wrapper for Cocoa Touch
 # Requirements
 
 Requires ARC
+
 Uses NSJSONSerialization which requires iOS5
 
 # How to use
