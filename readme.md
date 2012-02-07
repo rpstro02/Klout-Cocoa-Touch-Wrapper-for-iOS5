@@ -13,7 +13,7 @@ Uses NSJSONSerialization which requires iOS5
 Get an API key from http://developer.klout.com/
 Paste the API key into KloutRequest.h
 
-Get Klout Scores, Profiles, Topics, Incluencers, and Incluencees for lists of users:
+Get Klout Scores, Profiles, Topics, Influencers, and Influencees for lists of users:
 
 KloutRequest *kloutRequest = [KloutRequest kloutRequest:kKloutScore forUsers:[NSArray arrayWithObjects:@"blackoutrobb",@"appstore",nil] withDelegate:self];
 
